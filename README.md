@@ -54,3 +54,39 @@ Frontend: React with TypeScript, Next.js for server-side rendering and static si
 - User Experience: Adhering to the design mockup ensures a cohesive and aesthetically pleasing interface, enhancing the overall user experience.
 - Scalability: Design properties serve as a foundation for creating reusable components, making the project scalable and easier to maintain.
 - Collaboration: Improves communication between designers and developers by standardizing the design language.
+
+## UI Components Patterns
+
+1. NavBar
+   Provides navigation links for the main sections of the application, such as Home, Explore, Saved, Trips, and Profile.
+
+- Key Features:
+  - Logo (Airbnb branding)
+  - Search bar for quick navigation
+  - User menu with authentication links (Login, Sign Up, Logout)
+  - Responsive design for mobile, tablet, and desktop.
+
+2. Property Card
+   Displays individual property details such as title, image, price, and ratings.
+
+- Key Features:
+  - Image carousel for property photos
+  - Property title and short description
+  - Price per night and total cost
+  - Star rating and reviews count
+  - "Add to Wishlist" button
+
+3. Hero Section
+   A welcoming banner on the homepage to highlight the Airbnb brand and provide quick search functionality.
+
+- Key Features:
+  - Background image with a welcoming tagline
+  - A search form with fields for location, check-in/check-out dates, and guests
+
+4. Footer
+   Provides additional links and information about the site, such as company details, policies, and social media links.
+
+- Key Features:
+  - Sections for "About," "Community," and "Support"
+  - Social media icons with links
+  - Copyright information
