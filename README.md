@@ -55,7 +55,7 @@ Frontend: React with TypeScript, Next.js for server-side rendering and static si
 - Scalability: Design properties serve as a foundation for creating reusable components, making the project scalable and easier to maintain.
 - Collaboration: Improves communication between designers and developers by standardizing the design language.
 
-# UI Components Patterns
+# UI Component Patterns
 
 1. **NavBar** <br>
    Provides navigation links for the main sections of the application, such as Home, Explore, Saved, Trips, and Profile.
